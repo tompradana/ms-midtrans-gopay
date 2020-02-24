@@ -1,0 +1,20 @@
+.woocommerce-ms-gp-payment-details {
+    margin-bottom: 3.706325903em
+}
+.woocommerce-ms-gp-payment-details > h2 {
+    text-align: center;
+}
+.ms-gp-payment-action {
+    text-align: center;
+}
+.qr-code img {
+    max-width: 300px;
+    display: inline-block;
+    border:  1px solid #222;
+}
+.deeplink-redirect a {
+    display: inline-block;
+}
+.ms-gp-payment-instruction {
+    margin-top: 3.706325903em;
+}
